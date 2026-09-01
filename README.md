@@ -29,3 +29,11 @@ This project analyzes sales data to understand overall sales performance, profit
 - Profit by Category
 - Sales by Product
 - Category and Region filters
+  
+## Key Insights
+
+- Electronics is the highest-performing product category by sales and profit.
+- The West region has the highest sales among the regions.
+- Laptop is the top-selling product by sales.
+- Monthly sales fluctuate throughout the year, with several noticeable peaks.
+- The dashboard provides interactive analysis using Category and Region filters.
