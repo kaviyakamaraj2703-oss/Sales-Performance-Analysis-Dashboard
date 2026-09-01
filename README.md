@@ -37,3 +37,14 @@ This project analyzes sales data to understand overall sales performance, profit
 - Laptop is the top-selling product by sales.
 - Monthly sales fluctuate throughout the year, with several noticeable peaks.
 - The dashboard provides interactive analysis using Category and Region filters.
+  
+## Skills Demonstrated
+
+- Data Cleaning and Preparation
+- SQL Data Analysis
+- Data Visualization
+- Dashboard Development
+- KPI Creation
+- DAX Measures
+- Interactive Slicers and Filters
+- Business Performance Analysis
